@@ -59,6 +59,8 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=YashGate77&show_icons=true&theme=dark&locale=en" alt="YashGate77" /></td>
+   <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashGate77&show_icons=true&theme=dark&locale=en&layout=compact" alt="YashGate77" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashGate77&" alt="YashGate77" /></td>
   </tr>
 </table>
 </div>
